@@ -1,0 +1,5 @@
+[component]
+name = "SigmaOS-javafx"
+version = "0.1.0"
+category = "platform"
+description = "JavaFX rich client GUI framework integration for SigmaOS"
